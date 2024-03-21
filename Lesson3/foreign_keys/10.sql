@@ -1,0 +1,1 @@
+--False -- Foreign keys allow null values, primary keys do not. 

@@ -1,0 +1,5 @@
+What is a physical schema?
+
+3. Physical - Mostly concerned with the specifics of the database implementation of the conceptual model
+
+A low level database specific design focused on implementation 

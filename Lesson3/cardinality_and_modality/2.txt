@@ -1,0 +1,4 @@
+What is modality?
+
+Determines if the relationship is required (1) or optional(0)
+

@@ -1,0 +1,9 @@
+What is a conceptual schema?
+
+A high level design focused on identifying entitites and their relationships.
+
+Entity relatiohip model
+
+Two kinds of connections in a ERD - one or many
+
+ 

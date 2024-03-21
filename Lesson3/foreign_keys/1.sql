@@ -1,0 +1,1 @@
+psql -d keys < products_somethig.sql

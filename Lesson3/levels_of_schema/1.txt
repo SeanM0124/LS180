@@ -1,0 +1,5 @@
+What are the three levels of schema?
+
+1. Conceptual - Concerned mostly with bigger objects and high level concepts. Not concerned with how things are stored in the database
+2. Logical - Often contains attributes and their data types. Not the typical level to work at.
+3. Physical - Mostly concerned with the specifics of the database implementation of the conceptual model

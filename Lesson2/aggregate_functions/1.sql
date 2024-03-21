@@ -1,0 +1,1 @@
+psql -d lesson2 < films4.sql
